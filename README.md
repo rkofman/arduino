@@ -1,4 +1,4 @@
-arduino-rotary-encoder
+arduino
 ======================
 
-A playground for some arduino code dealing with a rotary encoder.
+A playground for some arduino code.
